@@ -1,6 +1,6 @@
 # projeto-Unes-construindo-uma-pagina-de-uma-universidade
 
-AtividadeUNES (Página institucional de uma universidade) com Html5
+Atividade UNES (Página institucional de uma universidade) com Html5
 
  Erik Efraim Roque da Silva : 01822625
  
